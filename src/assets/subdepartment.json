@@ -1,0 +1,3330 @@
+{
+	"table": "subdepartment",
+	"rows":
+	[
+		{
+			"id": 1,
+			"sub_department_name": "Agricultural Equipment",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 2,
+			"sub_department_name": "Agricultural Waste",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 3,
+			"sub_department_name": "Animal Feed",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 4,
+			"sub_department_name": "Animal Products",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 5,
+			"sub_department_name": "Beans",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 6,
+			"sub_department_name": "Fresh Fruit",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 7,
+			"sub_department_name": "Fresh Vegetables",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 8,
+			"sub_department_name": "Frozen Products",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 9,
+			"sub_department_name": "Grain",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 10,
+			"sub_department_name": "Hemp",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 11,
+			"sub_department_name": "Mushrooms & Truffles",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 12,
+			"sub_department_name": "Nuts & Kernels",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 13,
+			"sub_department_name": "Ornamental Plants",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 14,
+			"sub_department_name": "Other Agriculture Products",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 15,
+			"sub_department_name": "Plant & Animal Oil",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 16,
+			"sub_department_name": "Plant Seeds & Bulbs",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 17,
+			"sub_department_name": "Timber Raw Materials",
+			"date": "2022-11-17",
+			"department_id": 34
+		},
+		{
+			"id": 18,
+			"sub_department_name": "Aesthetic medicine",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 19,
+			"sub_department_name": "Bath Supplies",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 20,
+			"sub_department_name": "Beauty Equipment",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 21,
+			"sub_department_name": "Body Art",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 22,
+			"sub_department_name": "False Eyelashes & Tools",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 23,
+			"sub_department_name": "Hair Extensions & Wigs",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 24,
+			"sub_department_name": "Makeup & Tools",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 25,
+			"sub_department_name": "Mini Size & Gift Sets",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 26,
+			"sub_department_name": "Nail Supplies",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 27,
+			"sub_department_name": "Oral Care",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 28,
+			"sub_department_name": "Perfume & Fragrance",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 29,
+			"sub_department_name": "Skin Care & Tools",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 30,
+			"sub_department_name": "Used Beauty Care",
+			"date": "2022-11-17",
+			"department_id": 15
+		},
+		{
+			"id": 31,
+			"sub_department_name": "Ethnic Clothing",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 32,
+			"sub_department_name": "Garment & Processing Accessories",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 33,
+			"sub_department_name": "Men's Clothing",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 34,
+			"sub_department_name": "Novelty & Special Use",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 35,
+			"sub_department_name": "Other Apparel",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 36,
+			"sub_department_name": "Socks & Hosiery",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 37,
+			"sub_department_name": "Sportswear",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 38,
+			"sub_department_name": "Wedding Apparel & Accessories",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 39,
+			"sub_department_name": "Women's Clothing",
+			"date": "2022-11-17",
+			"department_id": 6
+		},
+		{
+			"id": 40,
+			"sub_department_name": "Certification, Inspection & Credit Management",
+			"date": "2022-11-17",
+			"department_id": 37
+		},
+		{
+			"id": 41,
+			"sub_department_name": "Logistics Services",
+			"date": "2022-11-17",
+			"department_id": 37
+		},
+		{
+			"id": 42,
+			"sub_department_name": "Adhesives & Sealants",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 43,
+			"sub_department_name": "Admixture & Additives",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 44,
+			"sub_department_name": "Agrochemicals",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 45,
+			"sub_department_name": "Basic Organic Chemicals",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 46,
+			"sub_department_name": "Biological Chemical Products",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 47,
+			"sub_department_name": "Catalysts & Chemical Auxiliary Agents",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 48,
+			"sub_department_name": "Chemical Reagents",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 49,
+			"sub_department_name": "Chemical Waste",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 50,
+			"sub_department_name": "Coating & Paint",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 51,
+			"sub_department_name": "Custom Chemical Services",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 52,
+			"sub_department_name": "Daily Chemicals",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 53,
+			"sub_department_name": "Energy Chemicals",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 54,
+			"sub_department_name": "Flavor & Fragrance",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 55,
+			"sub_department_name": "Inorganic Chemicals",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 56,
+			"sub_department_name": "Non-Explosive Demolition Agents",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 57,
+			"sub_department_name": "Organic Intermediate",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 58,
+			"sub_department_name": "Other Chemicals",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 59,
+			"sub_department_name": "Painting & Coating",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 60,
+			"sub_department_name": "Pigments & Dyestuff",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 61,
+			"sub_department_name": "Polymer",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 62,
+			"sub_department_name": "Surface Treatment Chemicals",
+			"date": "2022-11-17",
+			"department_id": 32
+		},
+		{
+			"id": 63,
+			"sub_department_name": "Advertising Equipment",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 64,
+			"sub_department_name": "Commercial Laundry Equipment",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 65,
+			"sub_department_name": "Commercial Robots",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 66,
+			"sub_department_name": "Digital Signage",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 67,
+			"sub_department_name": "Financial Equipment",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 68,
+			"sub_department_name": "Funeral Supplies",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 69,
+			"sub_department_name": "Other Service Equipment",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 70,
+			"sub_department_name": "Party Supplies",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 71,
+			"sub_department_name": "Restaurant & Hotel Supplies",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 72,
+			"sub_department_name": "Trade Show Equipment",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 73,
+			"sub_department_name": "Vending Machines",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 74,
+			"sub_department_name": "Warehousing & Supermarket Supplies",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 75,
+			"sub_department_name": "Wedding Supplies",
+			"date": "2022-11-17",
+			"department_id": 36
+		},
+		{
+			"id": 76,
+			"sub_department_name": "Balustrades & Handrails",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 77,
+			"sub_department_name": "Bathroom & Kitchen",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 78,
+			"sub_department_name": "Building & Industrial Glass",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 79,
+			"sub_department_name": "Building Boards",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 80,
+			"sub_department_name": "Ceilings",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 81,
+			"sub_department_name": "Corner Guards",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 82,
+			"sub_department_name": "Countertops, Vanity Tops & Table Tops",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 83,
+			"sub_department_name": "Curtain Walls & Accessories",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 84,
+			"sub_department_name": "Decorative Films",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 85,
+			"sub_department_name": "Door, Window & Accessories",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 86,
+			"sub_department_name": "Earthwork Products",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 87,
+			"sub_department_name": "Elevators & Escalators",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 88,
+			"sub_department_name": "Fireplaces & Stoves",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 89,
+			"sub_department_name": "Fireproofing Materials",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 90,
+			"sub_department_name": "Floor Heating Systems & Parts",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 91,
+			"sub_department_name": "Flooring & Accessories",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 92,
+			"sub_department_name": "Formwork",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 93,
+			"sub_department_name": "Heat Insulation Materials",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 94,
+			"sub_department_name": "HVAC System & Parts",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 95,
+			"sub_department_name": "HVAC Systems & Parts",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 96,
+			"sub_department_name": "Ladders & Scaffoldings",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 97,
+			"sub_department_name": "Masonry Materials",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 98,
+			"sub_department_name": "Metal Building Materials",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 99,
+			"sub_department_name": "Mosaics",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 100,
+			"sub_department_name": "Mouldings",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 101,
+			"sub_department_name": "Multifunctional Materials",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 102,
+			"sub_department_name": "Other Construction & Real Estate",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 103,
+			"sub_department_name": "Outdoor Facilities",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 104,
+			"sub_department_name": "Plastic Building Materials",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 105,
+			"sub_department_name": "Real Estate",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 106,
+			"sub_department_name": "Soundproofing Materials",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 107,
+			"sub_department_name": "Stairs & Stair Parts",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 108,
+			"sub_department_name": "Stone",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 109,
+			"sub_department_name": "Sunrooms & Glass Houses",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 110,
+			"sub_department_name": "Tiles & Accessories",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 111,
+			"sub_department_name": "Timber",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 112,
+			"sub_department_name": "Wallpapers/Wall panels",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 113,
+			"sub_department_name": "Waterproofing Materials",
+			"date": "2022-11-17",
+			"department_id": 10
+		},
+		{
+			"id": 114,
+			"sub_department_name": "Cables & Commonly Used Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 115,
+			"sub_department_name": "Camera, Photo & Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 116,
+			"sub_department_name": "Chargers, Batteries & Power Supplies",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 117,
+			"sub_department_name": "Computer Hardware & Software",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 118,
+			"sub_department_name": "Earphone & Headphone & Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 119,
+			"sub_department_name": "Electronic Publications",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 120,
+			"sub_department_name": "Mobile Phone & Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 121,
+			"sub_department_name": "Mobile Phone & Computer Repair Parts",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 122,
+			"sub_department_name": "Other Consumer Electronics",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 123,
+			"sub_department_name": "Portable Audio, Video & Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 124,
+			"sub_department_name": "Projectors & Presentation Equipments",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 125,
+			"sub_department_name": "Smart Electronics",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 126,
+			"sub_department_name": "Speakers & Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 127,
+			"sub_department_name": "Television, Home Audio, Video & Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 128,
+			"sub_department_name": "TV Receivers & Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 129,
+			"sub_department_name": "Used Electronics",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 130,
+			"sub_department_name": "Video Games & Accessories",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 131,
+			"sub_department_name": "VR, AR, MR Hardware & Software",
+			"date": "2022-11-17",
+			"department_id": 4
+		},
+		{
+			"id": 132,
+			"sub_department_name": "Connectors & Terminals",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 133,
+			"sub_department_name": "Electrical Instruments",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 134,
+			"sub_department_name": "Electrical Supplies",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 135,
+			"sub_department_name": "Generators",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 136,
+			"sub_department_name": "Industrial Controls",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 137,
+			"sub_department_name": "Low Voltage Products",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 138,
+			"sub_department_name": "Medium & High Voltage Products",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 139,
+			"sub_department_name": "Power Supplies",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 140,
+			"sub_department_name": "Professional Audio, Video & Lighting(old)",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 141,
+			"sub_department_name": "Switches",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 142,
+			"sub_department_name": "Wires, Cables & Cable Assemblies",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 143,
+			"sub_department_name": "Wiring Accessories",
+			"date": "2022-11-17",
+			"department_id": 24
+		},
+		{
+			"id": 144,
+			"sub_department_name": "Amplifiers and Comparators",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 145,
+			"sub_department_name": "Connectors",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 146,
+			"sub_department_name": "Development Systems",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 147,
+			"sub_department_name": "Diodes, Transistors and Thyristors",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 148,
+			"sub_department_name": "Displays, Signage and Optoelectronics",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 149,
+			"sub_department_name": "EL Products",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 150,
+			"sub_department_name": "Electronic Accessories & Supplies",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 151,
+			"sub_department_name": "Electronic Data Systems",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 152,
+			"sub_department_name": "Electronics Stock",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 153,
+			"sub_department_name": "Integrated Circuits",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 154,
+			"sub_department_name": "Microcontrollers, Standard & Specialty",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 155,
+			"sub_department_name": "Other Electronic Components",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 156,
+			"sub_department_name": "Passive Components",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 157,
+			"sub_department_name": "PCB & PCBA",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 158,
+			"sub_department_name": "Power Driver Modules",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 159,
+			"sub_department_name": "Power Supplies and Circuit Protection",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 160,
+			"sub_department_name": "Sensors",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 161,
+			"sub_department_name": "Telecommunications",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 162,
+			"sub_department_name": "Wireless & IoT",
+			"date": "2022-11-17",
+			"department_id": 25
+		},
+		{
+			"id": 163,
+			"sub_department_name": "Other Environmental Products",
+			"date": "2022-11-17",
+			"department_id": 40
+		},
+		{
+			"id": 164,
+			"sub_department_name": "Other Excess Inventory",
+			"date": "2022-11-17",
+			"department_id": 40
+		},
+		{
+			"id": 165,
+			"sub_department_name": "Recycling",
+			"date": "2022-11-17",
+			"department_id": 40
+		},
+		{
+			"id": 166,
+			"sub_department_name": "Sewer Products",
+			"date": "2022-11-17",
+			"department_id": 40
+		},
+		{
+			"id": 167,
+			"sub_department_name": "Down & Feather",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 168,
+			"sub_department_name": "Fabric",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 169,
+			"sub_department_name": "Fiber",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 170,
+			"sub_department_name": "Fur",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 171,
+			"sub_department_name": "Leather",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 172,
+			"sub_department_name": "Leather Products",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 173,
+			"sub_department_name": "Other Textiles & Leather Products",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 174,
+			"sub_department_name": "Textile Accessories",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 175,
+			"sub_department_name": "Textile Processing",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 176,
+			"sub_department_name": "Thread",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 177,
+			"sub_department_name": "Yarn",
+			"date": "2022-11-17",
+			"department_id": 13
+		},
+		{
+			"id": 178,
+			"sub_department_name": "Casting Services",
+			"date": "2022-11-17",
+			"department_id": 23
+		},
+		{
+			"id": 179,
+			"sub_department_name": "Forging Services",
+			"date": "2022-11-17",
+			"department_id": 23
+		},
+		{
+			"id": 180,
+			"sub_department_name": "Machining Services",
+			"date": "2022-11-17",
+			"department_id": 23
+		},
+		{
+			"id": 181,
+			"sub_department_name": "Moulds",
+			"date": "2022-11-17",
+			"department_id": 23
+		},
+		{
+			"id": 182,
+			"sub_department_name": "Other Fabrication Services",
+			"date": "2022-11-17",
+			"department_id": 23
+		},
+		{
+			"id": 183,
+			"sub_department_name": "Sheet Metal Fabrication",
+			"date": "2022-11-17",
+			"department_id": 23
+		},
+		{
+			"id": 184,
+			"sub_department_name": "Belts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 185,
+			"sub_department_name": "Clothes Accessories",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 186,
+			"sub_department_name": "Ear Muffs & Eye Masks",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 187,
+			"sub_department_name": "Ethnic Accessories",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 188,
+			"sub_department_name": "Gloves & Mittens",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 189,
+			"sub_department_name": "Hair Accessories",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 190,
+			"sub_department_name": "Hats & Caps",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 191,
+			"sub_department_name": "Other Fashion Accessories",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 192,
+			"sub_department_name": "Scarf, Hat & Glove Sets",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 193,
+			"sub_department_name": "Scarves & Shawls",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 194,
+			"sub_department_name": "Sleeves & Knee Sleeves",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 195,
+			"sub_department_name": "Ties & Accessories",
+			"date": "2022-11-17",
+			"department_id": 7
+		},
+		{
+			"id": 196,
+			"sub_department_name": "Baby Food",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 197,
+			"sub_department_name": "Baked Goods",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 198,
+			"sub_department_name": "Bean Products",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 199,
+			"sub_department_name": "Beverages",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 200,
+			"sub_department_name": "Canned Food",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 201,
+			"sub_department_name": "Confectionery",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 202,
+			"sub_department_name": "Dairy Products",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 203,
+			"sub_department_name": "Egg Products",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 204,
+			"sub_department_name": "Food Ingredients",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 205,
+			"sub_department_name": "Frog & Escargot",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 206,
+			"sub_department_name": "Fruit & Vegetable Products",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 207,
+			"sub_department_name": "Grain Products",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 208,
+			"sub_department_name": "Honey & Honey Products",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 209,
+			"sub_department_name": "Instant Food",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 210,
+			"sub_department_name": "Meat & Poultry",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 211,
+			"sub_department_name": "Other Food & Beverage",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 212,
+			"sub_department_name": "Seafood",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 213,
+			"sub_department_name": "Seasonings & Condiments",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 214,
+			"sub_department_name": "Snacks",
+			"date": "2022-11-17",
+			"department_id": 35
+		},
+		{
+			"id": 215,
+			"sub_department_name": "Commercial Furniture",
+			"date": "2022-11-17",
+			"department_id": 12
+		},
+		{
+			"id": 216,
+			"sub_department_name": "Furniture Accessories",
+			"date": "2022-11-17",
+			"department_id": 12
+		},
+		{
+			"id": 217,
+			"sub_department_name": "Furniture Hardware",
+			"date": "2022-11-17",
+			"department_id": 12
+		},
+		{
+			"id": 218,
+			"sub_department_name": "Furniture Parts",
+			"date": "2022-11-17",
+			"department_id": 12
+		},
+		{
+			"id": 219,
+			"sub_department_name": "Home Furniture",
+			"date": "2022-11-17",
+			"department_id": 12
+		},
+		{
+			"id": 220,
+			"sub_department_name": "Kid's Furniture",
+			"date": "2022-11-17",
+			"department_id": 12
+		},
+		{
+			"id": 221,
+			"sub_department_name": "Other Furniture",
+			"date": "2022-11-17",
+			"department_id": 12
+		},
+		{
+			"id": 222,
+			"sub_department_name": "Outdoor Furniture",
+			"date": "2022-11-17",
+			"department_id": 12
+		},
+		{
+			"id": 223,
+			"sub_department_name": "Crafts",
+			"date": "2022-11-17",
+			"department_id": 28
+		},
+		{
+			"id": 224,
+			"sub_department_name": "Flags, Banners & Display Accessories",
+			"date": "2022-11-17",
+			"department_id": 28
+		},
+		{
+			"id": 225,
+			"sub_department_name": "Key Chains",
+			"date": "2022-11-17",
+			"department_id": 28
+		},
+		{
+			"id": 226,
+			"sub_department_name": "Lanyard",
+			"date": "2022-11-17",
+			"department_id": 28
+		},
+		{
+			"id": 227,
+			"sub_department_name": "Other Gifts",
+			"date": "2022-11-17",
+			"department_id": 28
+		},
+		{
+			"id": 228,
+			"sub_department_name": "Promotional & Business Gifts",
+			"date": "2022-11-17",
+			"department_id": 28
+		},
+		{
+			"id": 229,
+			"sub_department_name": "Stickers",
+			"date": "2022-11-17",
+			"department_id": 28
+		},
+		{
+			"id": 230,
+			"sub_department_name": "Animal & Veterinary",
+			"date": "2022-11-17",
+			"department_id": 16
+		},
+		{
+			"id": 231,
+			"sub_department_name": "Chinese Medicine",
+			"date": "2022-11-17",
+			"department_id": 16
+		},
+		{
+			"id": 232,
+			"sub_department_name": "Extracts",
+			"date": "2022-11-17",
+			"department_id": 16
+		},
+		{
+			"id": 233,
+			"sub_department_name": "Health Care Products",
+			"date": "2022-11-17",
+			"department_id": 16
+		},
+		{
+			"id": 234,
+			"sub_department_name": "Household Medical Devices",
+			"date": "2022-11-17",
+			"department_id": 16
+		},
+		{
+			"id": 235,
+			"sub_department_name": "Medical Consumables",
+			"date": "2022-11-17",
+			"department_id": 16
+		},
+		{
+			"id": 236,
+			"sub_department_name": "Professional Medical Devices",
+			"date": "2022-11-17",
+			"department_id": 16
+		},
+		{
+			"id": 237,
+			"sub_department_name": "Sex Products",
+			"date": "2022-11-17",
+			"department_id": 16
+		},
+		{
+			"id": 238,
+			"sub_department_name": "Bathroom Products",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 239,
+			"sub_department_name": "Festive & Party Supplies",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 240,
+			"sub_department_name": "Garden Supplies",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 241,
+			"sub_department_name": "Home Decor",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 242,
+			"sub_department_name": "Home Storage & Organization",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 243,
+			"sub_department_name": "Home Textiles",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 244,
+			"sub_department_name": "Household Cleaning Tools & Accessories",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 245,
+			"sub_department_name": "Household Scales",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 246,
+			"sub_department_name": "Household Sundries",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 247,
+			"sub_department_name": "Kitchen & Tabletop",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 248,
+			"sub_department_name": "Lighters & Smoking Accessories",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 249,
+			"sub_department_name": "Rain Gear",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 250,
+			"sub_department_name": "Smart Home Improvement",
+			"date": "2022-11-17",
+			"department_id": 11
+		},
+		{
+			"id": 251,
+			"sub_department_name": "Air Conditioning Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 252,
+			"sub_department_name": "Cleaning Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 253,
+			"sub_department_name": "Home Appliance Parts",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 254,
+			"sub_department_name": "Home Appliance Stock",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 255,
+			"sub_department_name": "Home Heaters",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 256,
+			"sub_department_name": "Laundry Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 257,
+			"sub_department_name": "Major Kitchen Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 258,
+			"sub_department_name": "Other Home Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 259,
+			"sub_department_name": "Personal Care & Beauty Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 260,
+			"sub_department_name": "Refrigerators & Freezers",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 261,
+			"sub_department_name": "Second-hand Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 262,
+			"sub_department_name": "Small Kitchen Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 263,
+			"sub_department_name": "Smart Home Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 264,
+			"sub_department_name": "Water Heaters",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 265,
+			"sub_department_name": "Water Treatment Appliances",
+			"date": "2022-11-17",
+			"department_id": 5
+		},
+		{
+			"id": 266,
+			"sub_department_name": "Agricultural Machinery & Equipment",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 267,
+			"sub_department_name": "Apparel & Textile Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 268,
+			"sub_department_name": "Chemical & Pharmaceutical Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 269,
+			"sub_department_name": "Cleaning Equipment",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 270,
+			"sub_department_name": "Electrical Equipment Manufacturing Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 271,
+			"sub_department_name": "Electronic Products Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 272,
+			"sub_department_name": "Electronics Production Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 273,
+			"sub_department_name": "Environmental Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 274,
+			"sub_department_name": "Food & Beverage Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 275,
+			"sub_department_name": "Home Product Manufacturing Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 276,
+			"sub_department_name": "Industrial Compressors & Parts",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 277,
+			"sub_department_name": "Industrial Robots",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 278,
+			"sub_department_name": "Industry Laser Equipment",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 279,
+			"sub_department_name": "Machine Tool Equipment",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 280,
+			"sub_department_name": "Machinery Accessories",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 281,
+			"sub_department_name": "Machinery Service",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 282,
+			"sub_department_name": "Metal & Metallurgy Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 283,
+			"sub_department_name": "Other Machinery & Industrial Equipment",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 284,
+			"sub_department_name": "Packaging Machines",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 285,
+			"sub_department_name": "Paper Production Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 286,
+			"sub_department_name": "Plastic & Rubber Processing Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 287,
+			"sub_department_name": "Printing Machine",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 288,
+			"sub_department_name": "Production Line",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 289,
+			"sub_department_name": "Refrigeration & Heat Exchange Equipment",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 290,
+			"sub_department_name": "Tobacco & Cigarette Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 291,
+			"sub_department_name": "Used Industrial Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 292,
+			"sub_department_name": "Welding Equipment",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 293,
+			"sub_department_name": "Woodworking Machinery",
+			"date": "2022-11-17",
+			"department_id": 1
+		},
+		{
+			"id": 294,
+			"sub_department_name": "Commercial & Industrial Lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 295,
+			"sub_department_name": "Healthcare Lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 296,
+			"sub_department_name": "Holiday Lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 297,
+			"sub_department_name": "Indoor Lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 298,
+			"sub_department_name": "Landscape Lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 299,
+			"sub_department_name": "Lighting Accessories",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 300,
+			"sub_department_name": "Lighting Bulbs & Tubes",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 301,
+			"sub_department_name": "Other Lights & Lighting Products",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 302,
+			"sub_department_name": "Outdoor Lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 303,
+			"sub_department_name": "Professional Lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 304,
+			"sub_department_name": "Smart lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 305,
+			"sub_department_name": "Solar lighting",
+			"date": "2022-11-17",
+			"department_id": 9
+		},
+		{
+			"id": 306,
+			"sub_department_name": "Backpacks",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 307,
+			"sub_department_name": "Bag & Luggage Making Materials",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 308,
+			"sub_department_name": "Bag Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 309,
+			"sub_department_name": "Briefcases",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 310,
+			"sub_department_name": "Business Bags & Cases",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 311,
+			"sub_department_name": "Evening Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 312,
+			"sub_department_name": "Handbags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 313,
+			"sub_department_name": "Lifestyle Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 314,
+			"sub_department_name": "Luggage & Travel Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 315,
+			"sub_department_name": "Luggage Carts",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 316,
+			"sub_department_name": "Men's Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 317,
+			"sub_department_name": "Messenger Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 318,
+			"sub_department_name": "Other Luggage, Bags & Cases",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 319,
+			"sub_department_name": "Pets' Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 320,
+			"sub_department_name": "Special Purpose Bags & Cases",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 321,
+			"sub_department_name": "Training Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 322,
+			"sub_department_name": "Used Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 323,
+			"sub_department_name": "Waist Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 324,
+			"sub_department_name": "Wallets & Holders",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 325,
+			"sub_department_name": "Women's Bags",
+			"date": "2022-11-17",
+			"department_id": 29
+		},
+		{
+			"id": 326,
+			"sub_department_name": "Lifting, Pulling & Positioning",
+			"date": "2022-11-17",
+			"department_id": 42
+		},
+		{
+			"id": 327,
+			"sub_department_name": "Transporting",
+			"date": "2022-11-17",
+			"department_id": 42
+		},
+		{
+			"id": 328,
+			"sub_department_name": "Warehousing",
+			"date": "2022-11-17",
+			"department_id": 42
+		},
+		{
+			"id": 329,
+			"sub_department_name": "Alloy Steel",
+			"date": "2022-11-17",
+			"department_id": 31
+		},
+		{
+			"id": 330,
+			"sub_department_name": "Carbon Steel",
+			"date": "2022-11-17",
+			"department_id": 31
+		},
+		{
+			"id": 331,
+			"sub_department_name": "Iron & Iron Products",
+			"date": "2022-11-17",
+			"department_id": 31
+		},
+		{
+			"id": 332,
+			"sub_department_name": "Metals & Metal Products",
+			"date": "2022-11-17",
+			"department_id": 31
+		},
+		{
+			"id": 333,
+			"sub_department_name": "Non-ferrous Metal",
+			"date": "2022-11-17",
+			"department_id": 31
+		},
+		{
+			"id": 334,
+			"sub_department_name": "Stainless Steel",
+			"date": "2022-11-17",
+			"department_id": 31
+		},
+		{
+			"id": 335,
+			"sub_department_name": "Wire Mesh",
+			"date": "2022-11-17",
+			"department_id": 31
+		},
+		{
+			"id": 336,
+			"sub_department_name": "Action & Toy Figures",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 337,
+			"sub_department_name": "Arts, Crafts & DIY Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 338,
+			"sub_department_name": "Baby Appliances",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 339,
+			"sub_department_name": "Baby Care",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 340,
+			"sub_department_name": "Baby Clothing",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 341,
+			"sub_department_name": "Baby Supplies & Products",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 342,
+			"sub_department_name": "Baby & Toddler Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 343,
+			"sub_department_name": "Backpacks",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 344,
+			"sub_department_name": "Balloons",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 345,
+			"sub_department_name": "Blocks & Model Building Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 346,
+			"sub_department_name": "Children's Clothing",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 347,
+			"sub_department_name": "Classic Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 348,
+			"sub_department_name": "Dolls & Accessories",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 349,
+			"sub_department_name": "Dress Up & Pretend Play",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 350,
+			"sub_department_name": "Educational Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 351,
+			"sub_department_name": "Electronic Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 352,
+			"sub_department_name": "Hobbies & Models",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 353,
+			"sub_department_name": "Hygiene Products",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 354,
+			"sub_department_name": "Kid's Textile&Bedding",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 355,
+			"sub_department_name": "Kids Shoes",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 356,
+			"sub_department_name": "Kids' Luggage & Bags",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 357,
+			"sub_department_name": "Maternity Clothes",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 358,
+			"sub_department_name": "Novelty & Gag Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 359,
+			"sub_department_name": "Outdoor Toys & Structures",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 360,
+			"sub_department_name": "Pools & Water Fun",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 361,
+			"sub_department_name": "Pregnancy & Maternity",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 362,
+			"sub_department_name": "Promotional Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 363,
+			"sub_department_name": "Puzzle & Games",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 364,
+			"sub_department_name": "Remote Control Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 365,
+			"sub_department_name": "Stuffed Animals & Plush Toys",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 366,
+			"sub_department_name": "Toddler Clothing",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 367,
+			"sub_department_name": "Toy Guns",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 368,
+			"sub_department_name": "Toy Vehicle",
+			"date": "2022-11-17",
+			"department_id": 27
+		},
+		{
+			"id": 369,
+			"sub_department_name": "Glass Packaging",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 370,
+			"sub_department_name": "Logistics Packaging",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 371,
+			"sub_department_name": "Metal Packaging",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 372,
+			"sub_department_name": "Other Packaging & Printing Products",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 373,
+			"sub_department_name": "Packaging & Printing Services",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 374,
+			"sub_department_name": "Packaging Auxiliary Materials",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 375,
+			"sub_department_name": "Packaging Raw Materials",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 376,
+			"sub_department_name": "Paper Packaging",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 377,
+			"sub_department_name": "Pharmaceutical Packaging",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 378,
+			"sub_department_name": "Plastic Packaging",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 379,
+			"sub_department_name": "Printing Materials",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 380,
+			"sub_department_name": "Textile Packaging",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 381,
+			"sub_department_name": "Wooden & Bamboo Packaging",
+			"date": "2022-11-17",
+			"department_id": 17
+		},
+		{
+			"id": 382,
+			"sub_department_name": "Bearing Accessories",
+			"date": "2022-11-17",
+			"department_id": 41
+		},
+		{
+			"id": 383,
+			"sub_department_name": "Bearings",
+			"date": "2022-11-17",
+			"department_id": 41
+		},
+		{
+			"id": 384,
+			"sub_department_name": "Gearboxes",
+			"date": "2022-11-17",
+			"department_id": 41
+		},
+		{
+			"id": 385,
+			"sub_department_name": "Hydraulic Parts",
+			"date": "2022-11-17",
+			"department_id": 41
+		},
+		{
+			"id": 386,
+			"sub_department_name": "Industrial Brakes",
+			"date": "2022-11-17",
+			"department_id": 41
+		},
+		{
+			"id": 387,
+			"sub_department_name": "Motors",
+			"date": "2022-11-17",
+			"department_id": 41
+		},
+		{
+			"id": 388,
+			"sub_department_name": "Power Transmission Parts",
+			"date": "2022-11-17",
+			"department_id": 41
+		},
+		{
+			"id": 389,
+			"sub_department_name": "Speed Reducers",
+			"date": "2022-11-17",
+			"department_id": 41
+		},
+		{
+			"id": 390,
+			"sub_department_name": "Batteries",
+			"date": "2022-11-17",
+			"department_id": 38
+		},
+		{
+			"id": 391,
+			"sub_department_name": "Energy Storage System",
+			"date": "2022-11-17",
+			"department_id": 38
+		},
+		{
+			"id": 392,
+			"sub_department_name": "Hydro Generator",
+			"date": "2022-11-17",
+			"department_id": 38
+		},
+		{
+			"id": 393,
+			"sub_department_name": "Other Renewable Energy",
+			"date": "2022-11-17",
+			"department_id": 38
+		},
+		{
+			"id": 394,
+			"sub_department_name": "Solar Applications",
+			"date": "2022-11-17",
+			"department_id": 38
+		},
+		{
+			"id": 395,
+			"sub_department_name": "Solar Energy Products",
+			"date": "2022-11-17",
+			"department_id": 38
+		},
+		{
+			"id": 396,
+			"sub_department_name": "Wind Power Products",
+			"date": "2022-11-17",
+			"department_id": 38
+		},
+		{
+			"id": 397,
+			"sub_department_name": "Firefighting Supplies",
+			"date": "2022-11-17",
+			"department_id": 22
+		},
+		{
+			"id": 398,
+			"sub_department_name": "Personal Protective Equipment",
+			"date": "2022-11-17",
+			"department_id": 22
+		},
+		{
+			"id": 399,
+			"sub_department_name": "Roadway Safety",
+			"date": "2022-11-17",
+			"department_id": 22
+		},
+		{
+			"id": 400,
+			"sub_department_name": "Tactical & Personal Defense Equipment",
+			"date": "2022-11-17",
+			"department_id": 22
+		},
+		{
+			"id": 401,
+			"sub_department_name": "Water Safety Products",
+			"date": "2022-11-17",
+			"department_id": 22
+		},
+		{
+			"id": 402,
+			"sub_department_name": "Art Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 403,
+			"sub_department_name": "Badge Holder & Accessories",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 404,
+			"sub_department_name": "Board Erasers",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 405,
+			"sub_department_name": "Boards",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 406,
+			"sub_department_name": "Book Covers",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 407,
+			"sub_department_name": "Books",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 408,
+			"sub_department_name": "Calculators",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 409,
+			"sub_department_name": "Calendars",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 410,
+			"sub_department_name": "Clipboards",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 411,
+			"sub_department_name": "Commercial Office Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 412,
+			"sub_department_name": "Correction Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 413,
+			"sub_department_name": "Desk Organizers",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 414,
+			"sub_department_name": "Drafting Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 415,
+			"sub_department_name": "Easels",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 416,
+			"sub_department_name": "Education Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 417,
+			"sub_department_name": "Electronic Dictionary",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 418,
+			"sub_department_name": "File Folder Accessories",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 419,
+			"sub_department_name": "Filing Products",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 420,
+			"sub_department_name": "Letter Pad/Paper",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 421,
+			"sub_department_name": "Magazines",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 422,
+			"sub_department_name": "Map",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 423,
+			"sub_department_name": "Markers & Highlighters",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 424,
+			"sub_department_name": "Notebooks & Writing Pads",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 425,
+			"sub_department_name": "Office Adhesives & Tapes",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 426,
+			"sub_department_name": "Office Binding Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 427,
+			"sub_department_name": "Office Cutting Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 428,
+			"sub_department_name": "Office Paper",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 429,
+			"sub_department_name": "Other Office & School Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 430,
+			"sub_department_name": "Paper Envelopes",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 431,
+			"sub_department_name": "Pencil Cases & Bags",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 432,
+			"sub_department_name": "Pencil Sharpeners",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 433,
+			"sub_department_name": "Pencils",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 434,
+			"sub_department_name": "Pens",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 435,
+			"sub_department_name": "Printer Supplies",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 436,
+			"sub_department_name": "Stamps",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 437,
+			"sub_department_name": "Stationery Set",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 438,
+			"sub_department_name": "Stencils",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 439,
+			"sub_department_name": "Writing Accessories",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 440,
+			"sub_department_name": "Yellow Pages",
+			"date": "2022-11-17",
+			"department_id": 18
+		},
+		{
+			"id": 441,
+			"sub_department_name": "Access Control Systems & Products",
+			"date": "2022-11-17",
+			"department_id": 21
+		},
+		{
+			"id": 442,
+			"sub_department_name": "Alarms",
+			"date": "2022-11-17",
+			"department_id": 21
+		},
+		{
+			"id": 443,
+			"sub_department_name": "IoT Solutions & Software",
+			"date": "2022-11-17",
+			"department_id": 21
+		},
+		{
+			"id": 444,
+			"sub_department_name": "Locks & Keys",
+			"date": "2022-11-17",
+			"department_id": 21
+		},
+		{
+			"id": 445,
+			"sub_department_name": "Other Security & Protection Products",
+			"date": "2022-11-17",
+			"department_id": 21
+		},
+		{
+			"id": 446,
+			"sub_department_name": "Safes",
+			"date": "2022-11-17",
+			"department_id": 21
+		},
+		{
+			"id": 447,
+			"sub_department_name": "Self Defense Supplies",
+			"date": "2022-11-17",
+			"department_id": 21
+		},
+		{
+			"id": 448,
+			"sub_department_name": "Surveillance Products",
+			"date": "2022-11-17",
+			"department_id": 21
+		},
+		{
+			"id": 449,
+			"sub_department_name": "Functional Shoes",
+			"date": "2022-11-17",
+			"department_id": 30
+		},
+		{
+			"id": 450,
+			"sub_department_name": "Men's Shoes",
+			"date": "2022-11-17",
+			"department_id": 30
+		},
+		{
+			"id": 451,
+			"sub_department_name": "Other Shoes",
+			"date": "2022-11-17",
+			"department_id": 30
+		},
+		{
+			"id": 452,
+			"sub_department_name": "Outdoor Shoes",
+			"date": "2022-11-17",
+			"department_id": 30
+		},
+		{
+			"id": 453,
+			"sub_department_name": "Shoe Care & Services",
+			"date": "2022-11-17",
+			"department_id": 30
+		},
+		{
+			"id": 454,
+			"sub_department_name": "Shoe Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 30
+		},
+		{
+			"id": 455,
+			"sub_department_name": "Shoes Stock",
+			"date": "2022-11-17",
+			"department_id": 30
+		},
+		{
+			"id": 456,
+			"sub_department_name": "Women's Shoes",
+			"date": "2022-11-17",
+			"department_id": 30
+		},
+		{
+			"id": 457,
+			"sub_department_name": "Amusement Park Products",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 458,
+			"sub_department_name": "Artificial Grass & Sports Flooring",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 459,
+			"sub_department_name": "Boats & Ships",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 460,
+			"sub_department_name": "Camping & Hiking",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 461,
+			"sub_department_name": "Collectibles, Costumes & Toys",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 462,
+			"sub_department_name": "Cycling",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 463,
+			"sub_department_name": "Exercise Rehabilitation",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 464,
+			"sub_department_name": "Field events",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 465,
+			"sub_department_name": "Fishing",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 466,
+			"sub_department_name": "Fitness & Body Building",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 467,
+			"sub_department_name": "Golf",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 468,
+			"sub_department_name": "Indoor Sports & Entertainment",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 469,
+			"sub_department_name": "Musical Instruments",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 470,
+			"sub_department_name": "Other Outdoor Sports",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 471,
+			"sub_department_name": "Other Sports & Entertainment Products",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 472,
+			"sub_department_name": "RVs & Campers",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 473,
+			"sub_department_name": "Scooters",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 474,
+			"sub_department_name": "Souvenirs",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 475,
+			"sub_department_name": "Sports Bags",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 476,
+			"sub_department_name": "Sports Fitness Technology",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 477,
+			"sub_department_name": "Sports Safety",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 478,
+			"sub_department_name": "Sports Shoes",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 479,
+			"sub_department_name": "Team Sports",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 480,
+			"sub_department_name": "Water Sports",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 481,
+			"sub_department_name": "Winter Sports",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 482,
+			"sub_department_name": "Yoga & Pilates",
+			"date": "2022-11-17",
+			"department_id": 26
+		},
+		{
+			"id": 483,
+			"sub_department_name": "Lab Supplies",
+			"date": "2022-11-17",
+			"department_id": 19
+		},
+		{
+			"id": 484,
+			"sub_department_name": "Measuring & Gauging Tools",
+			"date": "2022-11-17",
+			"department_id": 19
+		},
+		{
+			"id": 485,
+			"sub_department_name": "Test Instruments",
+			"date": "2022-11-17",
+			"department_id": 19
+		},
+		{
+			"id": 486,
+			"sub_department_name": "Testing Equipment",
+			"date": "2022-11-17",
+			"department_id": 19
+		},
+		{
+			"id": 487,
+			"sub_department_name": "Eyewear",
+			"date": "2022-11-17",
+			"department_id": 8
+		},
+		{
+			"id": 488,
+			"sub_department_name": "Eyewear Accessories",
+			"date": "2022-11-17",
+			"department_id": 8
+		},
+		{
+			"id": 489,
+			"sub_department_name": "Jewelry",
+			"date": "2022-11-17",
+			"department_id": 8
+		},
+		{
+			"id": 490,
+			"sub_department_name": "Jewelry Accessories",
+			"date": "2022-11-17",
+			"department_id": 8
+		},
+		{
+			"id": 491,
+			"sub_department_name": "Watch Accessories & Parts",
+			"date": "2022-11-17",
+			"department_id": 8
+		},
+		{
+			"id": 492,
+			"sub_department_name": "Watches",
+			"date": "2022-11-17",
+			"department_id": 8
+		},
+		{
+			"id": 493,
+			"sub_department_name": "Abrasives",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 494,
+			"sub_department_name": "Drill Bits",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 495,
+			"sub_department_name": "Fasteners",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 496,
+			"sub_department_name": "Hand Tools",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 497,
+			"sub_department_name": "Hardware",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 498,
+			"sub_department_name": "Hydraulic Tools",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 499,
+			"sub_department_name": "Machining",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 500,
+			"sub_department_name": "Other Tools",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 501,
+			"sub_department_name": "Pipe Fittings",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 502,
+			"sub_department_name": "Pneumatic Tools",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 503,
+			"sub_department_name": "Power Tool Accessories",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 504,
+			"sub_department_name": "Power Tools",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 505,
+			"sub_department_name": "Pumps & Parts",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 506,
+			"sub_department_name": "Tool Parts",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 507,
+			"sub_department_name": "Tool Sets",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 508,
+			"sub_department_name": "Tool Storage",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 509,
+			"sub_department_name": "Valves",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 510,
+			"sub_department_name": "Welding & Soldering Supplies",
+			"date": "2022-11-17",
+			"department_id": 20
+		},
+		{
+			"id": 511,
+			"sub_department_name": "ATV/UTV Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 512,
+			"sub_department_name": "Automotive Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 513,
+			"sub_department_name": "Aviation Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 514,
+			"sub_department_name": "Bus Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 515,
+			"sub_department_name": "Container Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 516,
+			"sub_department_name": "Go-Kart & Kart Racer Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 517,
+			"sub_department_name": "Heavy Duty Vehicle Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 518,
+			"sub_department_name": "Marine Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 519,
+			"sub_department_name": "Motorcycle Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 520,
+			"sub_department_name": "New Energy Vehicle Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 521,
+			"sub_department_name": "Railway Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 522,
+			"sub_department_name": "Recovery & Off-road Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 523,
+			"sub_department_name": "Trailer Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 524,
+			"sub_department_name": "Train Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 525,
+			"sub_department_name": "Truck Parts & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 526,
+			"sub_department_name": "Universal Parts",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 527,
+			"sub_department_name": "Wheels, Tires & Accessories",
+			"date": "2022-11-17",
+			"department_id": 2
+		},
+		{
+			"id": 528,
+			"sub_department_name": "ATVs & UTVs",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 529,
+			"sub_department_name": "Automotives",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 530,
+			"sub_department_name": "Bus",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 531,
+			"sub_department_name": "Containers",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 532,
+			"sub_department_name": "Emergency Vehicles",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 533,
+			"sub_department_name": "Golf Carts",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 534,
+			"sub_department_name": "Locomotive",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 535,
+			"sub_department_name": "Motorcycles & Scooters",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 536,
+			"sub_department_name": "New Energy Vehicles",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 537,
+			"sub_department_name": "Special Transportation",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 538,
+			"sub_department_name": "Trailers",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 539,
+			"sub_department_name": "Train Carriage",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 540,
+			"sub_department_name": "Tricycles",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 541,
+			"sub_department_name": "Truck",
+			"date": "2022-11-17",
+			"department_id": 3
+		},
+		{
+			"id": 542,
+			"sub_department_name": "Categories",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 543,
+			"sub_department_name": "Biodiesel",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 544,
+			"sub_department_name": "Biogas",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 545,
+			"sub_department_name": "Charcoal",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 546,
+			"sub_department_name": "Coal",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 547,
+			"sub_department_name": "Coal Gas",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 548,
+			"sub_department_name": "Coke Fuel",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 549,
+			"sub_department_name": "Crude Oil",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 550,
+			"sub_department_name": "Industrial Fuel",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 551,
+			"sub_department_name": "Natural Gas",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 552,
+			"sub_department_name": "Other Energy Related Products",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 553,
+			"sub_department_name": "Petrochemical Products",
+			"date": "2022-11-17",
+			"department_id": 39
+		},
+		{
+			"id": 554,
+			"sub_department_name": "Wood Pellets",
+			"date": "2022-11-17",
+			"department_id": 39
+		}
+	]
+}

@@ -1,0 +1,258 @@
+{
+	"table": "department",
+	"rows":
+	[
+		{
+			"id": 1,
+			"name": "Industrial Machinery",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 2,
+			"name": "Vehicle Parts & Accessories",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 3,
+			"name": "Vehicles & Transportation",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 4,
+			"name": "Consumer Electronics",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 5,
+			"name": "Home Appliances",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 6,
+			"name": "Apparel",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 7,
+			"name": "Fashion Accessories",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 8,
+			"name": "Timepieces, Jewelry & Eyewear",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 9,
+			"name": "Lights & Lighting",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 10,
+			"name": "Construction & Real Estate",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 11,
+			"name": "Home & Garden",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 12,
+			"name": "Furniture",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 13,
+			"name": "Fabric & Textile Raw Material",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 14,
+			"name": "All Categories",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 15,
+			"name": "Beauty",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 16,
+			"name": "Health & Medical",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 17,
+			"name": "Packaging & Printing",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 18,
+			"name": "School & Office Supplies",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 19,
+			"name": "Testing Instrument & Equipment",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 20,
+			"name": "Tools & Hardware",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 21,
+			"name": "Security",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 22,
+			"name": "Safety",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 23,
+			"name": "Fabrication Services",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 24,
+			"name": "Electrical Equipment & Supplies",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 25,
+			"name": "Electronic Components, Accessories & Telecommunications",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 26,
+			"name": "Sports & Entertainment",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 27,
+			"name": "Mother, Kids & Toys",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 28,
+			"name": "Gifts & Crafts",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 29,
+			"name": "Luggage, Bags & Cases",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 30,
+			"name": "Shoes & Accessories",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 31,
+			"name": "Metals & Alloys",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 32,
+			"name": "Chemicals",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 33,
+			"name": "Rubber & Plastics",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 34,
+			"name": "Agriculture",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 35,
+			"name": "Food & Beverage",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 36,
+			"name": "Commercial Service Equipment",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 37,
+			"name": "Business Services",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 38,
+			"name": "Renewable Energy",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 39,
+			"name": "Energy Chemicals",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 40,
+			"name": "Environment",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 41,
+			"name": "Power Transmission",
+			"date": "2022-11-17",
+			"note": ""
+		},
+		{
+			"id": 42,
+			"name": "Material Handling",
+			"date": "2022-11-17",
+			"note": ""
+		}
+	]
+}
